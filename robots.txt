@@ -1,0 +1,6 @@
+# Правило указано для всех ботов поисковиков
+User-agent: *
+Allow: /*utm_
+Allow: /*id=
+Allow: /publication/
+Allow: /index.php
